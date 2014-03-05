@@ -3,10 +3,7 @@ package wei.hua.concurreny;
 public class Consumer implements Runnable
 {
 	private BlockingQueueTest bqt;
-	public Consumer(Box box)
-	{
-		this.box = box;
-	}
+	
 	public Consumer(BlockingQueueTest bqt)
 	{
 		this.bqt = bqt;
