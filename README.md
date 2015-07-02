@@ -14,4 +14,4 @@ Test4Thread.java              is the test file
 the program is aimed to show the model of Porductor-Consumer 
 and to train the package of concurrent
 
-email：137795233@qq.com
+http://137795233.iteye.com/admin/blogs/2026261
